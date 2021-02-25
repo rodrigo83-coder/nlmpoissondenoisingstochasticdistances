@@ -1,4 +1,4 @@
-# nlmpoissondenoisingstochasticdistances_1
+# nlmpoissondenoisingstochasticdistances
 A New Bayesian Poisson Denoising Algorithm Based on Nonlocal Means and Stochastic Distances
 Main file / program start\
 main_exec_all_tests.m\
